@@ -1,6 +1,7 @@
 const path = require('path')
  
 module.exports = {
+   basePath: "/developer-portfolio",
   output: "export",  // <=== enables static exports
   reactStrictMode: true,
   sassOptions: {
